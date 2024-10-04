@@ -1,7 +1,6 @@
 # University of Alberta Template Repository
 ## Full Stack Web Application Development Program
 
-Add your README content here.
 
 Project title: 
     Learn EXSM3931 with James Grieve
@@ -20,5 +19,6 @@ How to use features that may not be obvious
 Credits: 
     1. James Grieve
     2. Ray Lo
+
 License:
     + No License
