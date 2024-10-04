@@ -12,4 +12,5 @@ I participated in old technology replacement project in terms of vendor alignmen
 Describe what specific technologies you have experience with (if any).
 
 Hardware - Zebra mobile device, Avery Dennison handheld scan gun, Honeywell mass scanner
+
 Software - C++, VisualBasic, learning Visual Stidio Code.
